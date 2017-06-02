@@ -3,10 +3,8 @@
 //   change during deployment.
 var loc = window.location.pathname;
 var dir = loc.substring(0, loc.lastIndexOf('/'));
-var defaultPath = "file://".concat(dir);
-defaultPath = defaultPath.concat("/images/");
-
-console.log(defaultPath);
+//var defaultPath = "file://".concat(dir);
+var defaultPath = defaultPath.concat("/images/");
 
 function changeImage(trophyName, imageSrc) {
  
