@@ -4,7 +4,7 @@
 var loc = window.location.pathname;
 var dir = loc.substring(0, loc.lastIndexOf('/'));
 //var defaultPath = "file://".concat(dir);
-var defaultPath = defaultPath.concat("/images/");
+var defaultPath = dir.concat("/images/");
 
 function changeImage(trophyName, imageSrc) {
  
