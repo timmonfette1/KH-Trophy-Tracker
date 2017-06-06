@@ -3,7 +3,8 @@ Kingdom Hearts 1.5+2.5 Trophy Tracker
 
 Link to website: https://timmonfette1.github.io/KH-Trophy-Tracker/
 
-A web based tracker for Platinum Trophy RTA Speedruns for Kingdom Hearts 1.5+2.5 for the PS4.  Currently, only Kingdom Hearts 1 Final Mix is supported here, but support for Kingdom Hearts 2 Final Mix trophies is coming soon.<br />
+A web based tracker for Platinum Trophy RTA Speedruns for Kingdom Hearts 1.5+2.5 for the PS4.<br />
+Use the tabs to switch between 1FM and 2FM Trophy Lists.<br />
 
 All trophies start in Black and White meaning they haven't been obtained yet.<br />
 Hovering your mouse over a trophy will give a tool-tip with the trophy name.<br />

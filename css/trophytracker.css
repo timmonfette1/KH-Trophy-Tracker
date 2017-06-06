@@ -11,7 +11,14 @@ h1 {
   text-align: center;
   color: #ffffff;
   font-weight: 300;
-  margin: 40px 0 40px;
+  margin: 40px 0 20px;
+}
+
+h3 {
+  text-align: center;
+  color: #ffffff;
+  font-weight: 100;
+  margin: 0 0 10px;
 }
 
 .tooltip {
@@ -50,4 +57,36 @@ h1 {
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
+}
+
+div.tab {
+  overflow: hidden;
+  background-color: #000000;
+}
+
+div.tab button {
+  background-color: inherit;
+  float: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+div.tab button:hover {
+  border: 1px solid #ffffff;
+}
+
+div.tab button.active {
+  border: 1px solid #ffffff;
+  background: #ffffff;
+  color: #000000;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border-top: none;
 }
