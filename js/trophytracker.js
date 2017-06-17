@@ -15,8 +15,10 @@ function changeImage(trophyName, imageSrc) {
   // Check what game the trophy is for
   if (res[0] == "kh1") {
     path = path.concat("kh1/");
-  } else {
+  } else if (res[0] == "kh2") {
     path = path.concat("kh2/");
+  } else {
+    path = path.concat("cc/");
   }
 
   // Check if the image should be changed to color or Black/White

@@ -11,6 +11,12 @@ Hovering your mouse over a trophy will give a tool-tip with the trophy name.<br 
 Once you obtain a trophy, you click on it and it will become colored.<br />
 This will allow for more clear tracking of trophies instead of using splits that can vary in length from run to run because of RNG.
 
+Chrono Cross
+-------
+The tracker also supports Chrono Cross characters.<br />
+I know this isn't KH related, but I did this as a favor to SpikeVegeta to help him with runs.<br />
+Not changing the name of the project because it's not worth it.
+
 NOTE
 -------
 Please note that refreshing the page will RESET ALL TROPHIES TO BLACK AND WHITE.
